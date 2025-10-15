@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Rafael Silva Rangel de Almeida, tenho 18 anos e sou natural da Bahia. Atualmente estou cursando Ciência da Computação na UNIFACS. Sempre me interessei por tecnologia e nada melhor do que trabalhar com o que gosta.
+Me chamo Rafael Silva Rangel de Almeida, tenho 19 anos e sou natural da Bahia. Atualmente estou cursando Ciência da Computação na UNIFACS. Sempre me interessei por tecnologia e nada melhor do que trabalhar com o que gosta.
 
 ---
 
